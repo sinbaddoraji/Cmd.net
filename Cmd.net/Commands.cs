@@ -212,7 +212,6 @@ namespace Cmd.net
 					{
 						Console.BackgroundColor = (ConsoleColor)color;
 						Console.ForegroundColor = ConsoleColor.White;
-						Console.Clear();
 						return;
 					}
 				}
