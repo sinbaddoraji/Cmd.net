@@ -14,41 +14,41 @@ Cmd.net can be used in the same way as the Windows Command Prompt. Simply open a
 
 Cmd.net supports the following commands:
 
-- `assoc`
-- `attrib`
-- `call`
-- `cd`
-- `chdir`
-- `cls`
-- `color`
-- `comp`
-- `copy`
-- `date`
-- `del`
-- `dir`
-- `echo`
-- `exit`
-- `find`
-- `format`
-- `ftype`
-- `help`
-- `label`
-- `md`
-- `mkdir`
-- `more`
-- `move`
-- `path`
-- `ping`
-- `prompt`
-- `rd`
-- `ren`
-- `rename`
-- `rmdir`
-- `systeminfo`
-- `time`
-- `type`
-- `ver`
-- `vol`
+`assoc`
+`attrib`
+`call`
+`cd`
+`chdir`
+`cls`
+`color`
+`comp`
+`copy`
+`date`
+`del`
+`dir`
+`echo`
+`exit`
+`find`
+`format`
+`ftype`
+`help`
+`label`
+`md`
+`mkdir`
+`more`
+`move`
+`path`
+`ping`
+`prompt`
+`rd`
+`ren`
+`rename`
+`rmdir`
+`systeminfo`
+`time`
+`type`
+`ver`
+`vol`
 
 For more information about a specific command, type `help [command]` in the Cmd.net terminal.
 
