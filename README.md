@@ -1,7 +1,5 @@
 # Cmd.net
 
-# Cmd.net
-
 Cmd.net is a command-line interface (CLI) tool that emulates the functionality of the Windows Command Prompt. It is written in C# and runs on the .NET Framework.
 
 ## Installation
